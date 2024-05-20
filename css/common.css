@@ -29,7 +29,7 @@ body {
 
 .gallery-img {
   width: 100%;
-  height: auto;
+  min-height: 300px;
   display: block;
   border-radius: 10px;
 }
